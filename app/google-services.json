@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "338198592540",
+    "firebase_url": "https://hostelhive-4d4fd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hostelhive-4d4fd",
+    "storage_bucket": "hostelhive-4d4fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338198592540:android:9c45b975a01c6d95c033d9",
+        "android_client_info": {
+          "package_name": "com.example.madproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338198592540-pc5em1ke9tlvv5fmrnoqmmd90rrq0adc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.madproject",
+            "certificate_hash": "f736657dc09a642ce3d86dd1f3621163bf74b888"
+          }
+        },
+        {
+          "client_id": "338198592540-dahdg38m4j16g82l0pqta8r59gc1m0au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXs25eEvp6RfHD0HjDe7mClHSFK57k0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338198592540-dahdg38m4j16g82l0pqta8r59gc1m0au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
